@@ -26,16 +26,6 @@ Machine Learning Engineer with ~4 years of experience delivering production-grad
 
 ---
 
-### Selected Work
-
-**Six-agent finance automation** &nbsp;·&nbsp; *Google ADK · Gemini 2.5 Pro · FastAPI · GKE*
-End-to-end automation of a Fortune 500 healthcare client's general-ledger journal-entry lifecycle — from document intake to ERP posting — cutting manual effort ~80% and collapsing a multi-day, multi-person workflow into an autonomous run that completes in minutes. Hybrid extraction (LLM for structure, pandas/openpyxl for deterministic aggregation) with programmatic debit/credit balancing that blocks any unbalanced entry before posting.
-
-**Vendor discovery engine** &nbsp;·&nbsp; *Vertex AI · Semantic Search · Embeddings*
-Semantic matching of brand/product names against historical procurement records, driving a **4× increase** in sourcing-team efficiency and surfacing 550+ new suppliers — work featured in a Google Cloud customer story.
-
----
-
 ### 🚀 Featured Projects
 
 **[Faunari — Venomous Snake Identifier](https://github.com/dhruv7477/Faunari)**
@@ -45,8 +35,6 @@ A recall-first, safety-critical classifier reaching **99.8% recall** on venomous
 **[DocuSage — Multi-Tenant RAG Platform](https://github.com/dhruv7477/DocuSage)**
 `FastAPI` `React/TS` `Qdrant` `PostgreSQL` `Redis` `Celery`
 Production-grade, multi-tenant RAG serving source-cited answers across 6 file formats. Hybrid retrieval (Reciprocal Rank Fusion) + cross-encoder reranking + a confidence-based abstention gate to prevent hallucination. Multi-agent orchestration (router → researcher → writer → summarizer → validator) with a programmatic citation validator that enforces grounding at zero extra LLM cost.
-
-> Pin these two plus your strongest hackathon builds. Each linked repo should open with an architecture diagram, the headline metric, and a screenshot or demo GIF.
 
 ---
 
