@@ -106,7 +106,7 @@ Machine Learning Engineer with ~4 years of experience delivering production-grad
 
 - 🔭 **Now:** Architecting production multi-agent systems (Google ADK, Gemini 2.5 Pro) on GKE
 - 🧠 **Depth in:** RAG architecture, LLM systems design, agent orchestration, MLOps
-- 🌍 **Open to:** AI/ML Engineer roles with visa sponsorship (Australia, EU, UK)
+- 🌍 **Open to:** AI/ML Engineer roles with visa sponsorship (Australia, EU, UK, USA, Japan)
 - ✍️ **Building publicly:** deployable, real-world tools — not tutorial clones
 
 ---
