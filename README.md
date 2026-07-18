@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I turn business problems into production AI systems — agentic pipelines, retrieval platforms, and ML services that ship and hold up under real workloads.
+  I turn business problems into production AI systems:— agentic pipelines, retrieval platforms, and ML services that ship and hold up under real workloads.
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ Machine Learning Engineer with ~4 years of experience delivering production-grad
 - 🔭 **Now:** Architecting production multi-agent systems (Google ADK, Gemini 2.5 Pro) on GKE
 - 🧠 **Depth in:** RAG architecture, LLM systems design, agent orchestration, MLOps
 - 🌍 **Open to:** AI/ML Engineer roles with visa sponsorship (Australia, EU, UK)
-- ✍️ **Building publicly:** deployable, real-world tools — not tutorial clones
+- ✍️ **Building publicly:** deployable, real-world tools not tutorial clones
 
 ---
 
