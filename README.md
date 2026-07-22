@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I turn business problems into production AI systems:— agentic pipelines, retrieval platforms, and ML services that ship and hold up under real workloads.
+  I turn business problems into production AI systems:- agentic pipelines, retrieval platforms, and ML services that ship and hold up under real workloads.
 </p>
 
 <p align="center">
